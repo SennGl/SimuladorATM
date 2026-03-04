@@ -1,0 +1,22 @@
+[
+  {
+    "numeroCuenta": 123,
+    "contrase\u00F1a": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+    "nombre": "Juan",
+    "saldo": 1566,
+    "historial": [
+      "Deposito: \u002B$2,000.00 (Saldo: $3,000.00)",
+      "Retiro: -$200.00 (Saldo: $2,800.00)",
+      "Transferencia enviada a Maria: -$1,234.00"
+    ]
+  },
+  {
+    "numeroCuenta": 1233,
+    "contrase\u00F1a": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+    "nombre": "Maria",
+    "saldo": 3234,
+    "historial": [
+      "Transferencia recibida de Juan: \u002B$1,234.00"
+    ]
+  }
+]
